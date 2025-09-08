@@ -73,7 +73,7 @@ I’m also passionate about **broader themes**, including AI, cybersecurity, tec
 
 
 <details>
-<summary>If you’re an HR or recruiter 👩‍💼 ▼</summary>
+<summary>If you’re an HR or recruiter 👩‍💼 ◀</summary>
 
 ## Open to Opportunities
 
@@ -98,7 +98,7 @@ I’m interested in exploring collaboration around **narrow/technical topics**, 
 I’m also passionate about **broader themes**, including AI, cybersecurity, tech culture, DIY, industrial tourism, and cycling. If any of these resonate with you, feel free to reach out – usually, a conversation quickly clarifies how we can work together 😉
 
 <details>
-<summary>If you’re a student 🎓 ▼</summary>
+<summary>If you’re a student 🎓 ◀</summary>
 
 ## Open Source Opportunities for Students
 
