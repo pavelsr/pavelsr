@@ -61,17 +61,6 @@ If you're an HR or recruiter, I'd be glad to discuss how my experience can add v
 - **Academic Experience:** Taught IT courses and supervised labs at Innopolis University (e.g., [Architect-AI course](https://stc.innopolis.university/architect-ai)), systems.education, and provided guidance for ZeroCoder students.
 
 
-## How We Can Collaborate
-
-I’m interested in exploring collaboration around **narrow/technical topics**, such as:  
-- **LLMs and RAG** (what’s often called vanilla-RAG today)  
-- **Building cost-efficient cloud services**  
-- **Bug-bounty programs** via HackerOne and Standoff365  
-- **EdTech and TravelTech projects**  
-
-I’m also passionate about **broader themes**, including AI, cybersecurity, tech culture, DIY, industrial tourism, and cycling. If any of these resonate with you, feel free to reach out – usually, a conversation quickly clarifies how we can work together 😉
-
-
 <details>
 <summary>If you’re an HR or recruiter 👩‍💼 ◀</summary>
 
