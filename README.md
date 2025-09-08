@@ -8,6 +8,11 @@ My guiding principle in IT is simple: build things that are useful and profitabl
 
 ## My Technical Stack & Hard Skills
 
+Senior Python developer exploring both career paths: technical (Staff/Architect) and managerial (Team Lead). Strong experience in backend development, web technologies, databases, DevOps, and MLOps. Hands-on with machine learning, AI, and high-load systems.
+
+<details>
+<summary>Details About My Technical Stack & Hard Skills 🛠️ ◀</summary>
+
 ### Programming & Web Development
 - Started with **C++** (university & first CNC startup), then moved to **full-stack web development** (HTML/CSS, JS), followed by **Perl backend** projects.
 - Main language for the last 5 years – **Python**: ML applications and FastAPI services. Deep knowledge of the standard library (collections, queues, multithreading, networking, file I/O, parsers, API clients, DevOps scripts).
@@ -40,6 +45,9 @@ My guiding principle in IT is simple: build things that are useful and profitabl
 
 ### Modern Web & Emerging Tech
 - HTTP2/3, Quick, WebRTC, WebSockets, WebGL, Web3
+
+</details>
+
 
 <details>
 <summary>If you’re an HR or recruiter</summary>
