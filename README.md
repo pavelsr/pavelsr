@@ -9,33 +9,33 @@ My guiding principle in IT is simple: build things that are useful and profitabl
 ## My Technical Stack & Hard Skills
 
 ### Programming & Web Development
-- Started with **C++** (university & first CNC startup), then moved to **full-stack web development** (HTML/CSS, JS), followed by **Perl backend** projects.  
-- Main language for the last 5 years – **Python**: ML applications and FastAPI services. Deep knowledge of the standard library (collections, queues, multithreading, networking, file I/O, parsers, API clients, DevOps scripts).  
+- Started with **C++** (university & first CNC startup), then moved to **full-stack web development** (HTML/CSS, JS), followed by **Perl backend** projects.
+- Main language for the last 5 years – **Python**: ML applications and FastAPI services. Deep knowledge of the standard library (collections, queues, multithreading, networking, file I/O, parsers, API clients, DevOps scripts).
 - Senior-level Python (tested), evolving toward software architect.
 
 ### Databases
-- **Primary:** PostgreSQL.  
+- **Primary:** PostgreSQL.
 - Also experienced with MySQL (custom UDFs), MongoDB, Tarantool, Redis, Memcached.
 
 ### Other Languages & Tools
-- Node.js, TypeScript (intermediate), Go (basic fixes via Cursor).  
+- Node.js, TypeScript (intermediate), Go (basic fixes via Cursor).
 - Familiar with **open-source Apache tools** for MLOps: Airflow, NiFi, Kafka.
 
 ### Machine Learning & AI
-- Hands-on with **LLMs and prompt engineering**: ChatGPT, YandexGPT, DeepSeek, Gemma, Grok, Qwen.  
-- Frameworks: PyTorch, TensorFlow (fine-tuning).  
-- Tools: MLFlow, LangChain, AI agents (Cursor) for accelerated coding.  
-- Standard ML modules: BPEmb, FastText (semantic search, clustering, classification); OpenCV, mmcv, GluonCV, CVAT, iSpy, CodeProject AI, DeepStack AI (video processing).  
+- Hands-on with **LLMs and prompt engineering**: ChatGPT, YandexGPT, DeepSeek, Gemma, Grok, Qwen.
+- Frameworks: PyTorch, TensorFlow (fine-tuning).
+- Tools: MLFlow, LangChain, AI agents (Cursor) for accelerated coding.
+- Standard ML modules: BPEmb, FastText (semantic search, clustering, classification); OpenCV, mmcv, GluonCV, CVAT, iSpy, CodeProject AI, DeepStack AI (video processing).
 - Familiar with Russian CV libraries: NTechLab, VisionLabs.  
-- Architecture: regression models (Logistic Regression), convolutional networks (MobileNet, YOLO), some LSTM experiments.  
+- Architecture: regression models (Logistic Regression), convolutional networks (MobileNet, YOLO), some LSTM experiments.
 - Self-taught via online courses & hands-on practice; active in ML conferences and meetups.
 
 ### Data Annotation & Training
-- Tools: LabelStudio, CVAT.  
+- Tools: LabelStudio, CVAT.
 - Experience as AI trainer at **Tinkoff** and **Yandex**.
 
 ### DevOps & Highload
-- Docker, Kubernetes, CI/CD, high RPS optimization.  
+- Docker, Kubernetes, CI/CD, high RPS optimization.
 - Practices: profiling, async queues, CQRS, Event Sourcing, sharding, caching.
 
 ### Modern Web & Emerging Tech
@@ -46,9 +46,9 @@ My guiding principle in IT is simple: build things that are useful and profitabl
 
 ## Open to Opportunities
 
-I’m open to **full-time roles** or **long-term projects** (6+ months) with clear growth potential and stability.  
+I'm open to **full-time roles** or **long-term projects** (6+ months) with clear growth potential and stability.
 
-If you’re an HR or recruiter, I’d be glad to discuss how my experience can add value to your company and explore potential collaboration.  
+If you're an HR or recruiter, I'd be glad to discuss how my experience can add value to your company and explore potential collaboration.
 
 **Location & Relocation:** Based in Russia (tax resident), but open to relocation opportunities.
 
@@ -56,9 +56,9 @@ If you’re an HR or recruiter, I’d be glad to discuss how my experience can a
  
 ## Soft Skills
 
-- **Mentorship & Teaching:** Mentored 15 junior developers, 3 of whom joined Top-100 companies on hh.ru.  
-- **Content & Knowledge Sharing:** Regularly write IT conference reviews for Habr and vc.ru (e.g., [link1](https://clck.ru/3DGkUz), [link2](https://clck.ru/3DGkWN)).  
-- **Academic Experience:** Taught IT courses and supervised labs at Innopolis University (e.g., [Architect-AI course](https://stc.innopolis.university/architect-ai)), systems.education, and provided guidance for ZeroCoder students.  
+- **Mentorship & Teaching:** Mentored 15 junior developers, 3 of whom joined Top-100 companies on hh.ru.
+- **Content & Knowledge Sharing:** Regularly write IT conference reviews for Habr and vc.ru (e.g., [link1](https://clck.ru/3DGkUz), [link2](https://clck.ru/3DGkWN)).
+- **Academic Experience:** Taught IT courses and supervised labs at Innopolis University (e.g., [Architect-AI course](https://stc.innopolis.university/architect-ai)), systems.education, and provided guidance for ZeroCoder students.
 
 
 ## How We Can Collaborate
@@ -77,9 +77,9 @@ I’m also passionate about **broader themes**, including AI, cybersecurity, tec
 
 ## Open to Opportunities
 
-I’m open to **full-time roles** or **long-term projects** (6+ months) with clear growth potential and stability.  
+I'm open to **full-time roles** or **long-term projects** (6+ months) with clear growth potential and stability.
 
-If you’re an HR or recruiter, I’d be glad to discuss how my experience can add value to your company and explore potential collaboration.  
+If you're an HR or recruiter, I'd be glad to discuss how my experience can add value to your company and explore potential collaboration.
 
 **Location & Relocation:** Based in Russia (tax resident), but open to relocation opportunities.
 
