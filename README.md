@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+# My GitHub Stats
+
+| ![GitHub Stats Card] | ![GitHub Top Languages Card] |
+| -------------------- | ---------------------------- |
+
+[GitHub Stats Card]: https://github-readme-stats.vercel.app/api?username=pavelsr&count_private=true&theme=vue&show_icons=true&hide_border=true
+[GitHub Top Languages Card]: https://github-readme-stats.vercel.app/api/top-langs/?username=pavelsr&layout=compact&theme=vue&hide_border=true
+
 <!--
 **pavelsr/pavelsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
